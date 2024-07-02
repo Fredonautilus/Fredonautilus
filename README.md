@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Frederik Keens aka @Fredonautilus.
+# 👋 Hi, I’m Frederik aka @Fredonautilus.
 - 👀 I’m interested in Videogames, Tech in general, Anime and Manga.
 - 🌱 I’m currently learning Applied Computer Science at the University of Applied Sciences Fulda.
 
